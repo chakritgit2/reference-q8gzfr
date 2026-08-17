@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chakritgit2.github.io/reference-q8gzfr/sitemap.xml
